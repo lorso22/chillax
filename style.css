@@ -1,0 +1,26 @@
+body{
+  background-image: linear-gradient(to left, #f7cc5e,#ffb463,#992400);
+  font-family: 'Permanent Marker', cursive;
+}
+
+.chilltitle{
+  font-size: 80px;
+  color: #f2efda;
+  text-align: center;
+}
+
+.cutedawsimorow{
+  font-size: 50px;
+  color:#f2efda;
+  font-family: 'WindSong', cursive;
+  text-align:center;
+
+}
+
+.amonlangmalakas{
+  padding: 0;
+}
+
+.hirapngcute{
+  padding: 0;
+}
